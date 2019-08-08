@@ -18,6 +18,8 @@
     "@types/node": "^12.7.1",
     "@types/react": "^16.8.25",
     "@types/react-dom": "^16.8.5",
+    "eslint": "^6.1.0",
+    "eslint-loader": "^2.2.1",
     "typescript": "^3.5.3"
   }
 }

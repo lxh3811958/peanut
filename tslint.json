@@ -6,5 +6,19 @@
       "node_modules/**/*.ts",
       "coverage/lcov-report/*.js"
     ]
+  },
+  "rules": {
+    "no-console": false,
+    "ordered-imports": false,
+    "object-literal-sort-keys": false,
+    "no-var-requires": false,
+    "interface-over-type-literal": false
+  },
+  "jsRules": {
+    "no-console": false,
+    "ordered-imports": false,
+    "object-literal-sort-keys": false,
+    "no-var-requires": false,
+    "interface-over-type-literal": false
   }
 }
